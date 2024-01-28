@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    text-align: center;
+}
+
+.blogs{
+    font-size: 0.9rem;
+    padding: 2% 7%;
+}
+
+.blog-description{
+    width: 90%;
+    height: 12rem;
+}
+
+button[type="submit"]{
+    margin: 20px 0;
+    width: 90%;
+}
+
+.composeBlog-subHeadings{
+    margin: 1rem 0 0;
+    font-weight: 400;
+}
+
+input[type="text"]{
+    width: 90%;
+}
+
+.navbar{
+    padding: 1% 5% 1% 7%;
+    background-color: #222831;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.nav-item{
+    padding-left: 15px;
+}
+
